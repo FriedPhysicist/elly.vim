@@ -8,7 +8,7 @@
 
 ## Installation
 
-1. Add `Plug 'ryuta69/elly.vim'` in your .vimrc within vim-plug's loading function.
+1. Add `Plug 'ulwlu/elly.vim'` in your .vimrc within vim-plug's loading function.
 2. Run `:PlugInstall`
 3. Activate by `colorscheme elly`
 4. Use `set termguicolors` as well
@@ -49,8 +49,8 @@ let g:airline_theme='elly'
 
 ## Related Projects
 
-- https://github.com/ryuta69/elly-iterm2
-- https://github.com/ryuta69/elly-tmux
+- https://github.com/ulwlu/elly-iterm2
+- https://github.com/ulwlu/elly-tmux
 
 ## Thanks
 
