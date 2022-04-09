@@ -19,8 +19,8 @@ endif
 " Palettes:"{{{
 " ----------------------------------------------------------------------------
 let s:palette = {}
-let s:palette.c00       = {"gui": {"dark": "#111A1F"}, "cterm": {"dark": "232"}}
-let s:palette.c01       = {"gui": {"dark": "#8D7856"}, "cterm": {"dark": "101"}}
+let s:palette.c00       = {"gui": {"dark": "#182c2c"}, "cterm": {"dark": "232"}}
+let s:palette.c01       = {"gui": {"dark": "#dfdfdf"}, "cterm": {"dark": "101"}}
 let s:palette.c02       = {"gui": {"dark": "#798362"}, "cterm": {"dark": " 66"}}
 let s:palette.c03       = {"gui": {"dark": "#9B9257"}, "cterm": {"dark": "100"}}
 let s:palette.c04       = {"gui": {"dark": "#63768A"}, "cterm": {"dark": "117"}}
