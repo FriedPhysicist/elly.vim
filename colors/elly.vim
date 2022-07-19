@@ -46,12 +46,12 @@ highlight! link Type PreProc
 "highlight! link Structure Type
 "highlight! link Typedef Type
 
-highlight! link Special Default
+highlight link Special ctermbg=Green 
 highlight! link SpecialChar String
-"highlight! link Tag Special
-"highlight! link Delimiter Special
+highlight! link Tag Special
+highlight! link Delimiter Special
 highlight SpecialComment guifg=#87875f guibg=NONE gui=reverse
-"highlight! link Debug Special
+highlight! link Debug Special
 
 highlight Underlined guifg=#af5f5f guibg=NONE gui=NONE
 
